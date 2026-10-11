@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="intlBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B" />
+      <stop offset="50%" stop-color="#04392B" />
+      <stop offset="100%" stop-color="#022119" />
+    </linearGradient>
+    <linearGradient id="intlGold" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D97706" />
+      <stop offset="35%" stop-color="#F59E0B" />
+      <stop offset="75%" stop-color="#FBBF24" />
+      <stop offset="100%" stop-color="#FFFBEB" />
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="92" height="92" rx="22" fill="url(#intlBg)" stroke="#34D399" stroke-width="1.5" stroke-opacity="0.4" />
+  
+  <!-- H Pillars in Solid Pure White -->
+  <rect x="27" y="25" width="11" height="50" rx="5.5" fill="#FFFFFF" />
+  <rect x="62" y="25" width="11" height="50" rx="5.5" fill="#FFFFFF" />
+
+  <!-- Dynamic Golden Basmati Rice Grain Arc (Global Trade Smile) -->
+  <path d="M23 55 C29 60 41 62 52 58 C63 54 73 45 81 37 C77 48 64 61 50 63 C39 64 29 61 23 55 Z" fill="url(#intlGold)" />
+  <path d="M28 56 C38 60 55 58 76 40" stroke="#FFFBEB" stroke-width="1.2" stroke-linecap="round" opacity="0.8" />
+  <path d="M81 29 L82.5 32.5 L86 34 L82.5 35.5 L81 39 L79.5 35.5 L76 34 L79.5 32.5 Z" fill="#FDE68A" />
+</svg>

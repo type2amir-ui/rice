@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="1584" height="396" fill="none">
+  <defs>
+    <linearGradient id="liBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#021E16" />
+      <stop offset="50%" stop-color="#04392B" />
+      <stop offset="100%" stop-color="#01100C" />
+    </linearGradient>
+    <linearGradient id="liGold" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D97706" />
+      <stop offset="50%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#FFFBEB" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1584" height="396" fill="url(#liBg)" />
+
+  <g transform="translate(380, 50)">
+    <text x="0" y="65" font-family="system-ui, sans-serif" font-weight="900" font-size="44" letter-spacing="1" fill="#FFFFFF">
+      HASHIR <tspan fill="#F59E0B">RICE</tspan> <tspan fill="#34D399" font-size="28">SUPPLIER</tspan>
+    </text>
+    
+    <text x="0" y="110" font-family="sans-serif" font-weight="700" font-size="18" letter-spacing="4" fill="#A7F3D0">
+      ENTERPRISE B2B COMMODITY BROKERAGE &amp; DIRECT EX-MILL SOURCING
+    </text>
+
+    <text x="0" y="170" font-family="system-ui, sans-serif" font-weight="800" font-size="28" fill="#FFFFFF">
+      Super Kernel Basmati • 1121 Kainat • Sella • IRRI-6 Bulk Shipments
+    </text>
+
+    <text x="0" y="215" font-family="sans-serif" font-weight="500" font-size="17" fill="#D1D5DB">
+      Serving Rice Wholesalers, Exporters, Rice Mills, Modern Trade, and Commercial Kitchens.
+    </text>
+
+    <g transform="translate(0, 255)">
+      <rect x="0" y="0" width="320" height="42" rx="8" fill="#021C15" stroke="#F59E0B" stroke-width="1.5" />
+      <text x="160" y="27" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="14" fill="#FEF3C7">
+        HEAD OFFICE: PUNJAB &amp; KARACHI
+      </text>
+
+      <rect x="340" y="0" width="300" height="42" rx="8" fill="#021C15" stroke="#10B981" stroke-width="1.5" />
+      <text x="490" y="27" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="14" fill="#ECFDF5">
+        DIRECT EX-MILL BROKERAGE
+      </text>
+    </g>
+  </g>
+</svg>

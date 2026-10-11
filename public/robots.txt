@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: Googlebot
+Allow: /
+Max-image-preview: large
+Max-snippet: -1
+Max-video-preview: -1
+
+Sitemap: https://hashirricesupplier.com/sitemap.xml

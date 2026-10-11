@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 624" width="1640" height="624" fill="none">
+  <defs>
+    <linearGradient id="fbBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B" />
+      <stop offset="40%" stop-color="#02281E" />
+      <stop offset="100%" stop-color="#01140E" />
+    </linearGradient>
+    <linearGradient id="fbGold" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D97706" />
+      <stop offset="40%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#FFFBEB" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1640" height="624" fill="url(#fbBg)" />
+
+  <g transform="translate(100, 80)">
+    <g transform="translate(0, 0)">
+      <rect width="90" height="90" rx="20" fill="#064E3B" stroke="#34D399" stroke-width="2.5" />
+      <rect x="23" y="20" width="12" height="50" rx="6" fill="#FFFFFF" />
+      <rect x="55" y="20" width="12" height="50" rx="6" fill="#FFFFFF" />
+      <path d="M20 52 C26 57 39 60 51 55 C62 50 71 42 78 34 C74 45 61 58 48 60 C37 62 26 59 20 52 Z" fill="url(#fbGold)" />
+      
+      <text x="110" y="48" font-family="sans-serif" font-weight="900" font-size="36" letter-spacing="2" fill="#FFFFFF">
+        HASHIR <tspan fill="#F59E0B">RICE</tspan> <tspan fill="#34D399" font-size="24">SUPPLIER</tspan>
+      </text>
+      <text x="110" y="80" font-family="sans-serif" font-weight="700" font-size="15" letter-spacing="4" fill="#A7F3D0">
+        OFFICIAL FACEBOOK BUSINESS PAGE
+      </text>
+    </g>
+
+    <text x="0" y="180" font-family="system-ui, sans-serif" font-weight="900" font-size="46" fill="#FFFFFF">
+      Wholesale Rice Supplier &amp; B2B Commodity Broker
+    </text>
+    <text x="0" y="235" font-family="system-ui, sans-serif" font-weight="800" font-size="34" fill="url(#fbGold)">
+      Direct From Punjab Mandis To Karachi &amp; Nationwide
+    </text>
+
+    <g transform="translate(0, 290)">
+      <rect x="0" y="0" width="220" height="42" rx="10" fill="#021C15" stroke="#10B981" stroke-width="1.5" />
+      <text x="110" y="26" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="14" fill="#ECFDF5">Super Kernel Basmati</text>
+
+      <rect x="235" y="0" width="190" height="42" rx="10" fill="#021C15" stroke="#10B981" stroke-width="1.5" />
+      <text x="330" y="26" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="14" fill="#ECFDF5">1121 Kainat Steam</text>
+
+      <rect x="440" y="0" width="160" height="42" rx="10" fill="#021C15" stroke="#10B981" stroke-width="1.5" />
+      <text x="520" y="26" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="14" fill="#ECFDF5">1121 Sella Rice</text>
+
+      <rect x="615" y="0" width="160" height="42" rx="10" fill="#021C15" stroke="#10B981" stroke-width="1.5" />
+      <text x="695" y="26" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="14" fill="#ECFDF5">IRRI-6 / PK-386</text>
+    </g>
+
+    <g transform="translate(0, 360)">
+      <rect x="0" y="0" width="480" height="50" rx="12" fill="#04392B" stroke="#F59E0B" stroke-width="1.5" />
+      <text x="240" y="32" text-anchor="middle" font-family="sans-serif" font-weight="800" font-size="16" fill="#FEF3C7">
+        WHATSAPP INQUIRIES: +92 309 6868666 / +92 333 8990883
+      </text>
+    </g>
+  </g>
+</svg>

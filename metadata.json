@@ -1,0 +1,6 @@
+{
+  "name": "Hashir Rice Supplier",
+  "description": "Professional B2B rice sourcing intermediary and wholesale broker across Pakistan. Connecting bulk buyers, wholesalers, and commercial kitchens with premium Pakistani Basmati, Super Kernel, 1121 Kainat, and IRRI rice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

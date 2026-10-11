@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 576" width="1024" height="576" fill="none">
+  <defs>
+    <linearGradient id="gmbBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B" />
+      <stop offset="50%" stop-color="#022119" />
+      <stop offset="100%" stop-color="#01140E" />
+    </linearGradient>
+    <linearGradient id="gmbGold" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D97706" />
+      <stop offset="50%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#FFFBEB" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1024" height="576" fill="url(#gmbBg)" />
+
+  <g transform="translate(70, 70)">
+    <g transform="translate(0, 0)">
+      <rect width="80" height="80" rx="18" fill="#064E3B" stroke="#34D399" stroke-width="2" />
+      <rect x="20" y="18" width="10" height="44" rx="5" fill="#FFFFFF" />
+      <rect x="50" y="18" width="10" height="44" rx="5" fill="#FFFFFF" />
+      <path d="M18 46 C24 50 36 53 46 48 C56 44 64 36 70 29 C66 39 54 51 42 53 C32 55 22 52 18 46 Z" fill="url(#gmbGold)" />
+      
+      <text x="98" y="44" font-family="sans-serif" font-weight="900" font-size="34" letter-spacing="1" fill="#FFFFFF">
+        HASHIR <tspan fill="#F59E0B">RICE</tspan>
+      </text>
+      <text x="98" y="72" font-family="sans-serif" font-weight="700" font-size="14" letter-spacing="4" fill="#34D399">
+        WHOLESALE RICE SUPPLIER
+      </text>
+    </g>
+
+    <text x="0" y="155" font-family="system-ui, sans-serif" font-weight="900" font-size="40" fill="#FFFFFF">
+      Google Verified Rice Supplier &amp; Trader
+    </text>
+    <text x="0" y="200" font-family="system-ui, sans-serif" font-weight="800" font-size="28" fill="url(#gmbGold)">
+      Karachi Mandi &amp; Punjab Ex-Mill Direct Sourcing
+    </text>
+
+    <g transform="translate(0, 240)">
+      <rect x="0" y="0" width="200" height="38" rx="8" fill="#021C15" stroke="#10B981" stroke-width="1.2" />
+      <text x="100" y="24" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="13" fill="#ECFDF5">Super Kernel Basmati</text>
+
+      <rect x="215" y="0" width="170" height="38" rx="8" fill="#021C15" stroke="#10B981" stroke-width="1.2" />
+      <text x="300" y="24" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="13" fill="#ECFDF5">1121 Kainat Steam</text>
+
+      <rect x="400" y="0" width="150" height="38" rx="8" fill="#021C15" stroke="#10B981" stroke-width="1.2" />
+      <text x="475" y="24" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="13" fill="#ECFDF5">1121 Sella Rice</text>
+
+      <rect x="565" y="0" width="140" height="38" rx="8" fill="#021C15" stroke="#10B981" stroke-width="1.2" />
+      <text x="635" y="24" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="13" fill="#ECFDF5">IRRI-6 / PK-386</text>
+    </g>
+
+    <g transform="translate(0, 310)">
+      <text x="0" y="25" font-family="sans-serif" font-weight="600" font-size="16" fill="#D1D5DB">
+        ✔ Ex-Mill Punjab Mandi Rates  ✔ Moisture Tested &amp; Sorter Cleaned  ✔ Nationwide Delivery
+      </text>
+    </g>
+
+    <rect x="0" y="375" width="400" height="46" rx="10" fill="#F59E0B" />
+    <text x="200" y="405" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="17" fill="#022119">
+      CALL / WHATSAPP: +92 309 6868666
+    </text>
+  </g>
+</svg>
